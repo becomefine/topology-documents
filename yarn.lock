@@ -753,7 +753,7 @@ vite@^2.6.5:
   optionalDependencies:
     fsevents "~2.3.2"
 
-vitepress@latest:
+vitepress@^0.20.0:
   version "0.20.0"
   resolved "https://registry.npmmirror.com/vitepress/download/vitepress-0.20.0.tgz#eb4f86abb7a90e9dc52c595fb5cc63ca2b717c60"
   integrity sha1-60+Gq7epDp3FLFlftcxjyitxfGA=
